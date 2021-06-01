@@ -9,6 +9,8 @@ collection: rust/book
 \-- meta:
 git-repo: https://github.com/fifthtry/rust-book
 lang: en
+translation: rust/book-de
+translation: rust/book-zh
 
 \--- reader:
 who: everyone
