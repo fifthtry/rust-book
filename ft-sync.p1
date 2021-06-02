@@ -8,7 +8,7 @@ collection: rust/book-ko
 
 \-- meta:
 git-repo: https://github.com/fifthtry/rust-book
-lang: fr
+lang: ko
 translation-of: rust/book
 
 \--- reader:
