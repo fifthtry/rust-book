@@ -240,7 +240,7 @@ ne sont pas seulement immuables par défaut − elles sont toujours immuables.
 You declare constants using the `const` keyword instead of the `let` keyword,
 and the type of the value *must* be annotated. We’re about to cover types and
 type annotations in the next section, [“Data Types,”][data-types]<!-- ignore
--- > so don’t worry about the details right now. Just know that you must always
+--> so don’t worry about the details right now. Just know that you must always
 annotate the type.
 -->
 

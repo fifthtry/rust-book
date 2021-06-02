@@ -517,7 +517,7 @@ Essayons cela :
 cd listings/ch03-common-programming-concepts/no-listing-32-loop
 cargo run
 CTRL-C
--- >
+-->
 -->
 
 <!--
@@ -563,7 +563,7 @@ Fortunately, Rust provides another, more reliable way to break out of a loop.
 You can place the `break` keyword within the loop to tell the program when to
 stop executing the loop. Recall that we did this in the guessing game in the
 [“Quitting After a Correct Guess”][quitting-after-a-correct-guess]<!-- ignore
--- > section of Chapter 2 to exit the program when the user won the game by
+--> section of Chapter 2 to exit the program when the user won the game by
 guessing the correct number.
 -->
 

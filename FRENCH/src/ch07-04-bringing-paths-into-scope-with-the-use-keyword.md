@@ -430,7 +430,7 @@ dans *Cargo.toml* :
 `rand` used in these files so they all match:
 * ch02-00-guessing-game-tutorial.md
 * ch14-03-cargo-workspaces.md
--- >
+-->
 -->
 
 <!--

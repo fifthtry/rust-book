@@ -16,7 +16,7 @@ This version of the text assumes you’re using Rust 1.50 or later with
 `edition="2018"` in *Cargo.toml* of all projects to use Rust 2018 Edition
 idioms. See the [“Installation” section of Chapter 1][install]<!-- ignore -- >
 to install or update Rust, and see the new [Appendix E][editions]<!-- ignore
--- > for information on editions.
+--> for information on editions.
 -->
 
 Cette version du document suppose que vous utilisez Rust 1.50 ou ultérieur

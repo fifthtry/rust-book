@@ -645,7 +645,7 @@ contient les informations décrivant comment ou pourquoi l'opération a échoué
 The purpose of these `Result` types is to encode error-handling information.
 Values of the `Result` type, like values of any type, have methods defined on
 them. An instance of `io::Result` has an [`expect` method][expect]<!-- ignore
--- > that you can call. If this instance of `io::Result` is an `Err` value,
+--> that you can call. If this instance of `io::Result` is an `Err` value,
 `expect` will cause the program to crash and display the message that you
 passed as an argument to `expect`. If the `read_line` method returns an `Err`,
 it would likely be the result of an error coming from the underlying operating
@@ -898,7 +898,7 @@ exemples de code de ce tutoriel pourraient ne pas fonctionner.
 `rand` used in these files so they all match:
 * ch07-04-bringing-paths-into-scope-with-the-use-keyword.md
 * ch14-03-cargo-workspaces.md
--- >
+-->
 -->
 
 <!--
@@ -1412,7 +1412,7 @@ cargo run
 4
 cargo run
 5
--- >
+-->
 -->
 
 <!--
@@ -1779,7 +1779,7 @@ contained `A👍%`, there would be no way to convert that to a number. Because i
 might fail, the `parse` method returns a `Result` type, much as the `read_line`
 method does (discussed earlier in [“Handling Potential Failure with the
 `Result` Type”](#handling-potential-failure-with-the-result-type)<!-- ignore
--- >). We’ll treat this `Result` the same way by using the `expect` method
+-->). We’ll treat this `Result` the same way by using the `expect` method
 again. If `parse` returns an `Err` `Result` variant because it couldn’t create
 a number from the string, the `expect` call will crash the game and print the
 message we give it. If `parse` can successfully convert the string to a number,
@@ -1812,7 +1812,7 @@ Exécutons ce programme, maintenant !
 cd listings/ch02-guessing-game-tutorial/no-listing-03-convert-string-to-number/
 cargo run
   76
--- >
+-->
 -->
 
 <!--
@@ -1936,7 +1936,7 @@ cargo run
 (too big guess)
 (correct guess)
 quit
--- >
+-->
 -->
 
 <!-- markdownlint-disable -->
@@ -2155,7 +2155,7 @@ cargo run
 (too big guess)
 foo
 (correct guess)
--- >
+-->
 -->
 
 <!--
