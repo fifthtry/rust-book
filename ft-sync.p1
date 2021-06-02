@@ -1,6 +1,7 @@
 -- ft-sync:
 mode: local-to-remote
 backend: mdbook
+root: FRENCH
 repo: https://github.com/fifthtry/rust-book
 collection: rust/book-fr
 
