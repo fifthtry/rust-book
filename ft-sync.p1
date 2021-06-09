@@ -3,6 +3,7 @@ mode: local-to-remote
 backend: mdbook
 repo: https://github.com/fifthtry/rust-book
 collection: rust/book-ja
+preserve_meta: true
 
 -- index-extra:
 
