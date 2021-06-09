@@ -4,6 +4,7 @@ backend: mdbook
 root: FRENCH
 repo: https://github.com/fifthtry/rust-book
 collection: rust/book-fr
+preserve-meta: true
 
 -- index-extra:
 
