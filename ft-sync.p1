@@ -1,0 +1,26 @@
+-- ft-sync:
+mode: local-to-remote
+backend: mdbook
+repo: https://github.com/fifthtry/rust-book
+collection: rust/book
+preserve_meta: true
+
+
+-- meta:
+git-repo: https://github.com/fifthtry/rust-book
+lang: en
+
+--- reader:
+who: everyone
+
+--- writer:
+username: sourabh
+
+--- admin:
+username: amitu
+
+--- admin:
+username: wilderbit
+
+--- admin:
+username: mxfunc
